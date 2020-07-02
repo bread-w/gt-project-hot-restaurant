@@ -1,0 +1,23 @@
+{
+  "name": "gt-project-hot-restaurant",
+  "version": "1.0.0",
+  "description": "Hot Restaurant Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bread-w/gt-project-hot-restaurant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bread-w/gt-project-hot-restaurant/issues"
+  },
+  "homepage": "https://github.com/bread-w/gt-project-hot-restaurant#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
